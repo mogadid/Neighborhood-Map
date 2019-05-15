@@ -13,6 +13,6 @@ To run app:
 3- Run `npm start`
 
 ### Attributions
-1- Google Maps API
-2- Foursquare
+- Google Maps API
+- Foursquare
 
