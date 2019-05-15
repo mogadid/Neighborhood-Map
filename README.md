@@ -8,9 +8,9 @@ You need Node.js installed on your computer to run the app
 
 To run app:
 
-1- Clone the repository
-2- Run `npm install`
-3- Run `npm start`
+- Clone the repository
+- Run `npm install`
+- Run `npm start`
 
 ### Attributions
 - Google Maps API
