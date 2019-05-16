@@ -67,6 +67,10 @@ class App extends Component {
       })
       this.setState({ venues, markers, center })
     })
+    .catch(error => {
+      console.log(error);
+      alert('Error loading page...');
+    })
   }
 
   render (){
